@@ -1,1 +1,6 @@
-
+{
+  "incident_id": "TEST-001",
+  "title": "Ransomware Detected",
+  "severity": "Critical",
+  "status": "Open"
+}
